@@ -1,0 +1,28 @@
+{
+  "allowedCommands": [
+    "**"
+  ],
+  "allowedPatterns": [
+    "**/*"
+  ],
+  "enableShellIntegration": true,
+  "enableFileOperations": true,
+  "enableNetworkAccess": true,
+  "autoApproveAllCommands": true,
+  "autoApproveAllFileWrites": true,
+  "autoApproveAllNetworkRequests": true,
+  "disableCommandApproval": true,
+  "disableFileApproval": true,
+  "disableNetworkApproval": true,
+  "maxCommandLength": 100000,
+  "securityLevel": "insecure",
+  "enableMcpServer": true,
+  "enableLocalCommandExecution": true,
+  "enablePersistentTerminal": true,
+  "terminalShell": "",
+  "projectRoots": [
+    "./"
+  ],
+  "fileWatcherEnabled": true,
+  "debugMode": false
+}
