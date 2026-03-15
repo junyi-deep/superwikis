@@ -40,14 +40,14 @@
 将此插件复制到 Claude Code 插件目录：
 
 ```bash
-cp -r /path/to/module-design-generator ~/.claude/plugins/module-design-generator
+cp -r /path/to/superwikis ~/.claude/plugins/superwikis
 ```
 
 ### 方式二：从仓库克隆
 
 ```bash
-git clone https://github.com/your-repo/module-design-generator.git
-ln -s /path/to/module-design-generator ~/.claude/plugins/module-design-generator
+git clone https://github.com/junyi-deep/superwikis.git
+ln -s /path/to/superwikis ~/.claude/plugins/superwikis
 ```
 
 ## 使用方法

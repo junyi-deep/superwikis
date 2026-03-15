@@ -1,13 +1,13 @@
 {
-  "name": "module-design-generator",
+  "name": "superwikis",
   "description": "A comprehensive plugin for generating and enhancing module design documents. Includes skills for enhancing existing design documents from code analysis, generating project overviews, reverse engineering design from code, batch document generation, and updating documents with requirement changes. Supports PDF, DOCX, and Markdown input formats with Mermaid diagram generation.",
   "version": "1.0.0",
   "author": {
     "name": "Junyi Wu",
     "email": "junyiwu@example.com"
   },
-  "homepage": "https://github.com/your-repo/module-design-generator",
-  "repository": "https://github.com/your-repo/module-design-generator",
+  "homepage": "https://github.com/your-repo/superwikis",
+  "repository": "https://github.com/your-repo/superwikis",
   "license": "MIT",
   "keywords": ["module-design", "documentation", "design-document", "mermaid", "pdf", "docx", "code-analysis", "reverse-engineering"]
 }
